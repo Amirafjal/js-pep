@@ -30,9 +30,11 @@ a = 'Hello I am also a string';
 // }
 
 // ODD number
-let number = 20;
-for (let i = 0; i <= number; i++) {
-    if (i % 2 != 0) {
-        console.log("these are odd numbers :", i)
-    }
-}
+// let number = 20;
+// for (let i = 0; i <= number; i++) {
+//     if (i % 2 != 0) {
+//         console.log("these are odd numbers :", i)
+//     }
+// }
+
+// is prime
